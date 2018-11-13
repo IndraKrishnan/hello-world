@@ -1,2 +1,3 @@
-# hello-world
-program for hello-world
+Hello Hooomans,
+
+It's me. I like artificial intelligence ;)
